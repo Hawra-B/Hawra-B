@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Hawra-B/Hawra-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Hawra 👋
 
-Here are some ideas to get you started:
+🎓 BCA student (Cyber Security specialization)  
+💻 Aspiring IT / Cybersecurity professional  
+🌱 Currently learning Python, C, and practical security concepts  
+🔍 Interested in problem-solving, backend logic, and security fundamentals  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Skills (learning & practicing)
+- C (basics, logic building)
+- Python (projects in progress)
+- Git & GitHub
+- Basic networking concepts
+- Linux fundamentals
+
+---
+
+### 📂 Projects
+- 🚧 CAPTCHA System in Python (in progress)
+- 🚧 More projects coming soon
+
+---
+
+### 📫 Connect with me
+- LinkedIn: (will add soon)
