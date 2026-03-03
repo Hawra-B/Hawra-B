@@ -1,23 +1,26 @@
 
 ## Hi, I'm Hawra 👋
 
-🎓 BCA student (Cyber Security specialization)  
+🎓 BCA student (Cloud & Security specialization)  
 💻 Aspiring IT / Cybersecurity professional  
-🌱 Currently learning Python, C, and practical security concepts  
-🔍 Interested in problem-solving, backend logic, and security fundamentals  
+🌱 Currently learning Languages (Python, C), Practical security concepts (Linux, Networking, Scripting) and Practicing CTFs. 
+🔍 Interested in Network fundamental, Offensive security, and Pen testing.  
 
 ---
 
-### 🔧 Skills (learning & practicing)
-- C (basics, logic building)
-- Python (projects in progress)
+### 🔧 Skills (practicing & developing)
+- C (Logic building, Low level control)
+- Python (Scripting & Automation)
 - Git & GitHub
-- Basic networking concepts
-- Linux fundamentals
+- Networking concepts (TCP/IP model, Subnetting, DNS, IP resolution, etc)
+- Linux fundamentals (Terminal - nc, Nmap, Grep, Exiftool, Wireshark, Burpsuite, etc)
+- Pen testing (Reconnaissance, Scanning & Enumeration) 
 
 ---
 
 ### 📂 Projects
+- 🚩 CTFs reports from PicoCTF - (Will upload link of repository)
+- 🚧 Network Socket in C (in progress)
 - 🚧 CAPTCHA System in Python (in progress)
 - 🚧 More projects coming soon
 
@@ -25,3 +28,4 @@
 
 ### 📫 Connect with me
 - LinkedIn: (will add soon)
+- Number: 000000000
