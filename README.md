@@ -4,7 +4,6 @@
 🎓 BCA student (Cloud & Security specialization)  
 💻 Aspiring IT / Cybersecurity professional  
 🌱 Currently learning Languages (Python, C), Practical security concepts (Linux, Networking, Scripting) and Practicing CTFs.
-
 🔍 Interested in Network fundamental, Offensive security, and Pen testing.  
 
 ---
